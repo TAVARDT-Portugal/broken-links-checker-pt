@@ -49,3 +49,7 @@ Efetue analises completas na plataforma online:
 ## Consultoria Especializada
 
 Para modernizacao de ligacoes internas segundo Normas Europeias de Integridade Web e W3C, contacte a **TAVARDT Portugal**.
+
+***
+
+© 2026 TAVARDT. Todos os direitos reservados.
