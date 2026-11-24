@@ -1,25 +1,26 @@
-# Analisador de Ligacoes Quebradas e Erros 404
+# Analisador de Ligações Quebradas e Erros 404
 
-[![Analisador Ligacoes Quebradas](https://img.shields.io/badge/TAVARDT-Broken%20Links-5b3cf5.svg)](https://tools.tavardt.com/pt/analisador-ligacoes-quebradas/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Analisador Ligações Quebradas](https://img.shields.io/badge/TAVARDT-Broken%20Links-5b3cf5.svg)](https://tools.tavardt.com/pt/analisador-ligações-quebradas/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
-Detecao de ligacoes mortas, inspecao de codigos de resposta HTTP e preservacao do crawl budget.
+Deteção de ligações mortas, inspeção de codigos de resposta HTTP e preservacao do crawl budget.
 
-Desenvolvido e mantido pela equipa de infraestrutura web da **TAVARDT**.
-
-***
-
-## Capacidades de Inspecao de Ligacoes Quebradas
-
-* **Auditoria de Hiperligacoes**: Analise sistematica de todas as ligacoes internas e externas contidas no documento HTML.
-* **Detecao de Erros HTTP 404 e 500**: Diagnostico de respostas com falha de cliente ou servidor que interrompem a navegacao.
-* **Protecao de Orcamento de Rastreio (Crawl Budget)**: Eliminacao de ligacoes mortas que prejudicam a eficiencia dos motores de busca.
-* **Verificacao de Textos Ancoras**: Inspecao de descricoes de ligacao para garantia de acessibilidade e contexto semantico.
-* **Metrica de Integridade de Ligacoes**: Classificacao de 0 a 100 com detalhe de ligacoes inoperacionais.
+Desenvolvido e mantido pela equipa de infraestrutura web da **TAVARDT Portugal**.
 
 ***
 
-## Instalacao e Execucao
+## Capacidades de Inspeção de Ligações Quebradas
+
+* **Auditoria de Hiperligacoes**: Análise sistematica de todas as ligações internas e externas contidas no documento HTML.
+* **Deteção de Erros HTTP 404 e 500**: Diagnostico de respostas com falha de cliente ou servidor que interrompem a navegacao.
+* **Protecao de Orçamento de Rastreio (Crawl Budget)**: Eliminacao de ligações mortas que prejudicam a eficiencia dos motores de busca.
+* **Verificacao de Textos Ancoras**: Inspeção de descricoes de ligacao para garantia de acessibilidade e contexto semantico.
+* **Metrica de Integridade de Ligações**: Classificacao de 0 a 100 com detalhe de ligações inoperacionais.
+
+***
+
+## Instalação e Execucao
 
 Requer Python 3.8 ou superior recorrendo apenas a modulos standard.
 
@@ -29,7 +30,7 @@ cd broken-links-checker-pt
 python broken_links_scanner.py https://empresa.pt
 ```
 
-Modo de saida estruturada JSON:
+Modo de saída estruturada JSON:
 
 ```bash
 python broken_links_scanner.py https://empresa.pt -json
@@ -41,15 +42,25 @@ python broken_links_scanner.py https://empresa.pt -json
 
 Efetue analises completas na plataforma online:
 
-* **Analisador de Ligacoes Quebradas Oficial**
+* **Analisador de Ligações Quebradas Oficial**
 * **[Portal TAVARDT](https://ag.tavardt.com/pt/)**
 
 ***
 
 ## Consultoria Especializada
 
-Para modernizacao de ligacoes internas segundo Normas Europeias de Integridade Web e W3C, contacte a **TAVARDT**.
+Para modernizacao de ligações internas segundo Normas Europeias de Integridade Web e W3C, contacte a **TAVARDT**.
 
 ***
 
-© 2026 TAVARDT. Todos os direitos reservados.
+© 2026 TAVARDT Portugal. Todos os direitos reservados. Soberania e Defesa de Infraestrutura.
+
+***
+
+## Governança e Conformidade
+
+* **Organização**: TAVARDT-Portugal
+* **Jurisdição**: Portugal
+* **Padrões de Referência**: Normas e frameworks técnicos auditados em estrita observância das regras de soberania.
+
+Desenvolvido pela Divisão de Engenharia e Infraestrutura da TAVARDT Portugal. Todos os direitos reservados.
