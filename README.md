@@ -6,8 +6,6 @@
 
 Deteção de ligações mortas, inspeção de codigos de resposta HTTP e preservacao do crawl budget.
 
-Desenvolvido e mantido pela equipa de infraestrutura web da **TAVARDT Portugal**.
-
 ***
 
 ## Capacidades de Inspeção de Ligações Quebradas
@@ -38,15 +36,6 @@ python broken_links_scanner.py https://empresa.pt -json
 
 ***
 
-## Ferramenta Oficial na Web
-
-Efetue analises completas na plataforma online:
-
-* **Analisador de Ligações Quebradas Oficial**
-* **[Portal TAVARDT](https://ag.tavardt.com/pt/)**
-
-***
-
 ## Consultoria Especializada
 
 Para modernizacao de ligações internas segundo Normas Europeias de Integridade Web e W3C, contacte a **TAVARDT**.
@@ -60,7 +49,7 @@ Para modernizacao de ligações internas segundo Normas Europeias de Integridade
 ***
 
 ### Licença
-Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
+Distribuído sob a Licença MIT.
 
 ***
 
